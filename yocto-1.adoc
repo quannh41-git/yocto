@@ -12,16 +12,16 @@
 Yocto project provides *open source, high quality infrastructure and tools* to help developers create *their own custom Linux distributions* for any *hardware architecture*.
 
 * Input: 
-**Kernel Configuration 
-**Hardware Name 
-**Packages/Binaries to be installed
+** Kernel Configuration 
+** Hardware Name 
+** Packages/Binaries to be installed
 
 * Output:
-**Linux Kernel 
-**Root File System
-**Bootloader 
-**Device Tree
-**Toolchain
+** Linux Kernel 
+** Root File System
+** Bootloader 
+** Device Tree
+** Toolchain
 
 == Poky
 * Poky is a reference distribution of Yocto Project. The word "reference" is used to mean "example" in this context.
@@ -30,10 +30,10 @@ Yocto project provides *open source, high quality infrastructure and tools* to h
 * Yocto Project uses Poky to build images (kernel, system, and application software) for targeted hardware.
 
 * At the technical level it is a combined repository of the components
-**Bitbake
-**OpenEmbedded Core
-**meta-yocto-bsp
-**Documentation
+** Bitbake
+** OpenEmbedded Core
+** meta-yocto-bsp
+** Documentation
 
 == Metadata
 * Metadata refers to the build instructions
